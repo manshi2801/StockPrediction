@@ -5,3 +5,6 @@ keras
 scikit-learn
 matplotlib
 tensorflow
+cv2
+pytesseract
+PIL
