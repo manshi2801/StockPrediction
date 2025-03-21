@@ -1,10 +1,10 @@
 streamlit
 pandas
 numpy
-keras
+opencv-python
+pytesseract
 scikit-learn
+keras
 matplotlib
 tensorflow
-cv2
-pytesseract
-OpenCV
+pillow
